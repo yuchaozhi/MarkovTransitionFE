@@ -12,3 +12,5 @@ This is the official repository of **Medical status forecasting with Markov feat
 ![Some gland image features](./figures/Table4.png)
 
 ![Some gland image features](./figures/Table5.png)
+
+### Numerical simulations under different binomial distribution parameter settings *p*
