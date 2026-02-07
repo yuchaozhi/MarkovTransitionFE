@@ -2,6 +2,9 @@
 
 This is the official repository of **Medical status forecasting with Markov feature engineering for autocorrelated categorical response variable.**
 
+![Markov](./figures/Markov.png)
+Fig.1 Framework Overview
+
 ### Numerical simulations under different time lengths 𝑇
 ![different time lengths 𝑇](./figures/Table1.png)
 
