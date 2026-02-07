@@ -24,4 +24,4 @@ This is the official repository of **Medical status forecasting with Markov feat
 
 ![different binomial distribution parameter settings *p*](./figures/Table10.png)
 
-### different population sizes
+### different population sizes *N*
